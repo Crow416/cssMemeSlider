@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 10px;
+}
+
+.body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+
+  background-color: #05b7f7;
+}
+
+.slider {
+  max-width: 60rem;
+  height: 40rem;
+  margin: 5rem auto;
+
+  background-color: #082f6e;
+  border-radius: 1rem;
+}
